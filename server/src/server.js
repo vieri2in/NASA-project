@@ -13,7 +13,7 @@ async function startSever() {
   await loadPlanetsData();
   await loadLaunchesData();
   server.listen(PORT, () => {
-    console.log(`Listening on the port ${PORT}`);
+    console.log(`Listening on thhhe port ${PORT}`);
   });
 }
 startSever();
