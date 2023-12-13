@@ -8,7 +8,7 @@ jobs:
   build:
     env:
       CI: true
-      MOGO_URL: "mongodb://localhost/nasa"
+      MONGO_URL: "mongodb://localhost/nasa"
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
