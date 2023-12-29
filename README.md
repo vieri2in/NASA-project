@@ -1,0 +1,1 @@
+Asbackendproject,itreadsrealNASAdatafromacsvfileandcom- bines it with SpaceX API to build a space launch system. Topics cov- ers clustering, load balancing, PM2, CI/CD, deployment, produc- tion in the cloud.
