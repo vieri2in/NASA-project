@@ -1,1 +1,1 @@
-Asbackendproject,itreadsrealNASAdatafromacsvfileandcom- bines it with SpaceX API to build a space launch system. Topics cov- ers clustering, load balancing, PM2, CI/CD, deployment, produc- tion in the cloud.
+As a backend project,it reads real NASA data from a csv file and combines it with SpaceX API to build a space launch system. Topics covers clustering, load balancing, PM2, CI/CD, deployment, produc- tion in the cloud.
